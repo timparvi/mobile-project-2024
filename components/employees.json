@@ -1,0 +1,259 @@
+{
+  "3": {
+    "availability": {
+      "Monday": {
+        "12:00": {
+          "status": "available"
+        },
+        "13:00": {
+          "status": "available"
+        },
+        "14:00": {
+          "status": "booked"
+        }
+      }
+    },
+    "description": "General practitioner with a focus on adult health",
+    "employee_id": 3,
+    "location": "Helsinki",
+    "name": "Juhani Rautavaara",
+    "picture": "https://storage.googleapis.com/healthcare_app_pictures_timparvi/doctor_juhani.png",
+    "profession": "doctor"
+  },
+  "4": {
+    "availability": {
+      "Friday": {
+        "08:00": {
+          "status": "available"
+        },
+        "10:00": {
+          "status": "available"
+        }
+      },
+      "Wednesday": {
+        "14:00": {
+          "status": "available"
+        }
+      }
+    },
+    "description": "Experienced pediatric nurse",
+    "employee_id": 4,
+    "location": "Helsinki",
+    "name": "Liisa Kaakki",
+    "picture": "https://storage.googleapis.com/healthcare_app_pictures_timparvi/nurse_liisa.png",
+    "profession": "nurse"
+  },
+  "5": {
+    "availability": {
+      "Monday": {
+        "15:00": {
+          "status": "available"
+        }
+      },
+      "Thursday": {
+        "13:00": {
+          "status": "available"
+        },
+        "14:30": {
+          "status": "available"
+        }
+      },
+      "Tuesday": {
+        "09:00": {
+          "status": "available"
+        },
+        "10:00": {
+          "status": "available"
+        }
+      }
+    },
+    "description": "test data",
+    "employee_id": 5,
+    "location": "Vantaa",
+    "name": "Helena Koistinen",
+    "picture": "url_yet_to_come",
+    "profession": "doctor"
+  },
+  "6": {
+    "availability": {
+      "Monday": {
+        "10:00": {
+          "status": "available"
+        },
+        "13:00": {
+          "status": "available"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "status": "available"
+        },
+        "09:00": {
+          "status": "available"
+        },
+        "10:00": {
+          "status": "available"
+        }
+      },
+      "Friday": {
+        "09:00": {
+          "status": "available"
+        },
+        "10:00": {
+          "status": "available"
+        },
+        "11:00": {
+          "status": "available"
+        }
+      }
+    },
+    "description": "Expert in oral health care",
+    "employee_id": 6,
+    "location": "Espoo",
+    "name": "Maija Holopainen",
+    "picture": "url_yet_to_come",
+    "profession": "dentist"
+  },
+  "7": {
+    "availability": {
+      "Tuesday": {
+        "09:00": {
+          "status": "available"
+        },
+        "13:00": {
+          "status": "available"
+        }
+      },
+      "Wednesday": {
+        "12:00": {
+          "status": "available"
+        },
+        "14:00": {
+          "status": "available"
+        },
+        "16:00": {
+          "status": "available"
+        }
+      },
+      "Thursday": {
+        "09:00": {
+          "status": "available"
+        },
+        "10:00": {
+          "status": "available"
+        },
+        "11:00": {
+          "status": "available"
+        }
+      }
+    },
+    "description": "test data",
+    "employee_id": 7,
+    "location": "Espoo",
+    "name": "Mikko Salo",
+    "picture": "url_yet_to_come",
+    "profession": "nurse"
+  },
+  "8": {
+    "availability": {
+      "Monday": {
+        "09:00": {
+          "status": "available"
+        },
+        "14:00": {
+          "status": "available"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "status": "available"
+        },
+        "13:00": {
+          "status": "available"
+        }
+      },
+      "Thursday": {
+        "10:00": {
+          "status": "available"
+        },
+        "15:00": {
+          "status": "available"
+        }
+      }
+    },
+    "description": "Specializes in cosmetic dentistry.",
+    "employee_id": 8,
+    "location": "Helsinki",
+    "name": "Tuomas Lehtonen",
+    "picture": "url_yet_to_come",
+    "profession": "dentist"
+  },
+  "9": {
+    "availability": {
+      "Tuesday": {
+        "09:00": {
+          "status": "available"
+        },
+        "14:00": {
+          "status": "available"
+        }
+      },
+      "Wednesday": {
+        "10:00": {
+          "status": "available"
+        },
+        "15:00": {
+          "status": "available"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "status": "available"
+        },
+        "13:00": {
+          "status": "available"
+        }
+      }
+    },
+    "description": "Passionate about preventive care and holistic approaches to wellness.",
+    "employee_id": 9,
+    "location": "Vantaa",
+    "name": "Anna-Maija Virtanen",
+    "picture": "url_yet_to_come",
+    "profession": "doctor"
+  },
+  "10": {
+    "availability": {
+      "Monday": {
+        "08:00": {
+          "status": "available"
+        },
+        "13:00": {
+          "status": "available"
+        }
+      },
+      "Wednesday": {
+        "09:00": {
+          "status": "available"
+        },
+        "14:00": {
+          "status": "available"
+        }
+      },
+      "Friday": {
+        "10:00": {
+          "status": "available"
+        },
+        "15:00": {
+          "status": "available"
+        }
+      }
+    },
+    "description": "Specializes in cardiovascular health.",
+    "employee_id": 10,
+    "location": "Espoo",
+    "name": "Markus Lindqvist",
+    "picture": "url_yet_to_come",
+    "profession": "doctor"
+  }
+}
